@@ -1,4 +1,4 @@
-# landslide-area-delimitation
+# Landslide area delimitation via deep transfer learning
 #### Mask R-CNN and U-Net are two popular deep learning frameworks for image segmentation in computer vision and have been applied to landslide detection and segmentation in remote sensing images. The objective of this study is to systematically compare and evaluate the performance and adaptability of Mask R-CNN and U-Net for landslide area delimitation in optical remote sensing imagery across regions.
 
 ### This code is provided in conjunction with a manuscript submitted to *IEEE Access* in 2024.
